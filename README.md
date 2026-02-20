@@ -1,0 +1,1 @@
+# An-Intelligent-SQL-Query-Generator-with-LLMs-using-Gemini-pro
